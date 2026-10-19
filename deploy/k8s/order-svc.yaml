@@ -1,0 +1,31 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: order-svc
+  namespace: prod-order
+  labels:
+    app: order-svc
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: order-svc
+  template:
+    metadata:
+      labels:
+        app: order-svc
+        service: demo-service
+    spec:
+      containers:
+        - name: app
+          image: aiops-demo-app:latest
+          imagePullPolicy: Never        # ★ 用 kind load 进去的本地镜像，不去远端拉
+          ports:
+            - containerPort: 8000
+          readinessProbe:               # ★ 只有就绪探针，故意不配存活探针
+            httpGet:
+              path: /health
+              port: 8000
+            initialDelaySeconds: 3
+            periodSeconds: 5
+            failureThreshold: 2

@@ -1,0 +1,727 @@
+======================================================================
+[P001] '郭 江 涛'
+======================================================================
+<w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16sdtfl="http://schemas.microsoft.com/office/word/2024/wordml/sdtformatlock" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" w14:paraId="5F3424C4" w14:textId="77777777" w:rsidR="00296794" w:rsidRDefault="00000000">
+  <w:pPr>
+    <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+    <w:jc w:val="center"/>
+    <w:rPr>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+  </w:pPr>
+  <w:r>
+    <w:rPr>
+      <w:rFonts w:ascii="Arial" w:eastAsia="黑体" w:hAnsi="Arial"/>
+      <w:b/>
+      <w:color w:val="000000"/>
+      <w:sz w:val="36"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>郭</w:t>
+  </w:r>
+  <w:r>
+    <w:rPr>
+      <w:rFonts w:ascii="Arial" w:eastAsia="黑体" w:hAnsi="Arial"/>
+      <w:b/>
+      <w:color w:val="000000"/>
+      <w:sz w:val="36"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t xml:space="preserve"> </w:t>
+  </w:r>
+  <w:r>
+    <w:rPr>
+      <w:rFonts w:ascii="Arial" w:eastAsia="黑体" w:hAnsi="Arial"/>
+      <w:b/>
+      <w:color w:val="000000"/>
+      <w:sz w:val="36"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>江</w:t>
+  </w:r>
+  <w:r>
+    <w:rPr>
+      <w:rFonts w:ascii="Arial" w:eastAsia="黑体" w:hAnsi="Arial"/>
+      <w:b/>
+      <w:color w:val="000000"/>
+      <w:sz w:val="36"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t xml:space="preserve"> </w:t>
+  </w:r>
+  <w:r>
+    <w:rPr>
+      <w:rFonts w:ascii="Arial" w:eastAsia="黑体" w:hAnsi="Arial"/>
+      <w:b/>
+      <w:color w:val="000000"/>
+      <w:sz w:val="36"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>涛</w:t>
+  </w:r>
+</w:p>
+
+======================================================================
+[P003] '教育背景'
+======================================================================
+<w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16sdtfl="http://schemas.microsoft.com/office/word/2024/wordml/sdtformatlock" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" w14:paraId="2C874F72" w14:textId="77777777" w:rsidR="00296794" w:rsidRPr="005602F7" w:rsidRDefault="00000000">
+  <w:pPr>
+    <w:pBdr>
+      <w:bottom w:val="single" w:sz="8" w:space="1" w:color="1F3A5F"/>
+    </w:pBdr>
+    <w:spacing w:before="80" w:after="0" w:line="240" w:lineRule="auto"/>
+    <w:rPr>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+    </w:rPr>
+  </w:pPr>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:rFonts w:ascii="Arial" w:eastAsia="黑体" w:hAnsi="Arial"/>
+      <w:b/>
+      <w:color w:val="1F3A5F"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+    </w:rPr>
+    <w:t>教育背景</w:t>
+  </w:r>
+</w:p>
+
+======================================================================
+[P004] '主修课程：Java 语言程序设计、JavaWeb 架构与开发86、面向对象程序设计Ⅱ 91、Python 程序设计 92、数据结构与算法、操作系统 91、计算机系统基础 86.4、数据库概论83.7、Oracle 数据库系统、Web 前端界面设计83、软件需求分析、软件项目管理、软件质量保证与测试、软件需求分析 85.6,软件工程导论等'
+======================================================================
+<w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16sdtfl="http://schemas.microsoft.com/office/word/2024/wordml/sdtformatlock" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" w14:paraId="54A1B76D" w14:textId="0AD0169A" w:rsidR="00296794" w:rsidRPr="005602F7" w:rsidRDefault="00000000">
+  <w:pPr>
+    <w:spacing w:before="40" w:after="0" w:line="240" w:lineRule="auto"/>
+    <w:jc w:val="both"/>
+    <w:rPr>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+  </w:pPr>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>主修课程：</w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t xml:space="preserve">Java </w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>语言程序设计、</w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t xml:space="preserve">JavaWeb </w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>架构与开发</w:t>
+  </w:r>
+  <w:r w:rsidR="005602F7" w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:rFonts w:hint="eastAsia"/>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>86</w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>、</w:t>
+  </w:r>
+  <w:r w:rsidR="005602F7" w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>面向对象程序设计</w:t>
+  </w:r>
+  <w:r w:rsidR="005602F7" w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体" w:hint="eastAsia"/>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>Ⅱ</w:t>
+  </w:r>
+  <w:r w:rsidR="005602F7" w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t xml:space="preserve"> 91</w:t>
+  </w:r>
+  <w:r w:rsidR="005602F7" w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>、</w:t>
+  </w:r>
+  <w:r w:rsidR="005602F7" w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t xml:space="preserve">Python </w:t>
+  </w:r>
+  <w:r w:rsidR="005602F7" w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>程序设计</w:t>
+  </w:r>
+  <w:r w:rsidR="005602F7" w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t xml:space="preserve"> 92</w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>、数据结构与算法、</w:t>
+  </w:r>
+  <w:r w:rsidR="005602F7" w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>操作系统</w:t>
+  </w:r>
+  <w:r w:rsidR="005602F7" w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t xml:space="preserve"> 91</w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>、</w:t>
+  </w:r>
+  <w:r w:rsidR="005602F7" w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>计算机系统基础</w:t>
+  </w:r>
+  <w:r w:rsidR="005602F7" w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t xml:space="preserve"> 86.4</w:t>
+  </w:r>
+  <w:r w:rsidR="005602F7" w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>、</w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>数据库概论</w:t>
+  </w:r>
+  <w:r w:rsidR="005602F7" w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:rFonts w:hint="eastAsia"/>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>83.7</w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>、</w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t xml:space="preserve">Oracle </w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>数据库系统、</w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t xml:space="preserve">Web </w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>前端界面设计</w:t>
+  </w:r>
+  <w:r w:rsidR="005602F7" w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:rFonts w:hint="eastAsia"/>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>83</w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>、软件需求分析、软件项目管理、软件质量保证与测试、</w:t>
+  </w:r>
+  <w:r w:rsidR="005602F7" w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>软件需求分析</w:t>
+  </w:r>
+  <w:r w:rsidR="005602F7" w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t xml:space="preserve"> 85.6</w:t>
+  </w:r>
+  <w:r w:rsidR="005602F7" w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:rFonts w:hint="eastAsia"/>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>,</w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>软件工程导论等</w:t>
+  </w:r>
+</w:p>
+
+======================================================================
+[P008] '· 大模型应用开发：系统学习大模型应用开发技术栈，熟悉 LangChain（提示词工程、ChatPromptTemplate、模型调用）、LangGraph（图编排工作流与状态管理），掌握 RAG 检索增强生成、MCP 协议与 Agent 智能体开发（REACT 推理-行动模式）；熟悉 Coze、Dify 等智能体平台，了解大模型本地部署。'
+======================================================================
+<w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16sdtfl="http://schemas.microsoft.com/office/word/2024/wordml/sdtformatlock" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" w14:paraId="13750ED0" w14:textId="4ADC4B38" w:rsidR="00296794" w:rsidRPr="005602F7" w:rsidRDefault="00000000">
+  <w:pPr>
+    <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+    <w:jc w:val="both"/>
+    <w:rPr>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+    </w:rPr>
+  </w:pPr>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+    </w:rPr>
+    <w:t xml:space="preserve">· </w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+    </w:rPr>
+    <w:t>大模型应用开发：系统</w:t>
+  </w:r>
+  <w:r w:rsidR="00D13041">
+    <w:rPr>
+      <w:rFonts w:hint="eastAsia"/>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>学习</w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+    </w:rPr>
+    <w:t>大模型应用开发技术栈，熟悉</w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+    </w:rPr>
+    <w:t xml:space="preserve"> LangChain</w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+    </w:rPr>
+    <w:t>（提示词工程、</w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+    </w:rPr>
+    <w:t>ChatPromptTemplate</w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+    </w:rPr>
+    <w:t>、模型调用）、</w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+    </w:rPr>
+    <w:t>LangGraph</w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+    </w:rPr>
+    <w:t>（图编排工作流与状态管理），掌握</w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+    </w:rPr>
+    <w:t xml:space="preserve"> RAG </w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+    </w:rPr>
+    <w:t>检索增强生成、</w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+    </w:rPr>
+    <w:t xml:space="preserve">MCP </w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+    </w:rPr>
+    <w:t>协议与</w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+    </w:rPr>
+    <w:t xml:space="preserve"> Agent </w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+    </w:rPr>
+    <w:t>智能体开发（</w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+    </w:rPr>
+    <w:t xml:space="preserve">REACT </w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+    </w:rPr>
+    <w:t>推理</w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+    </w:rPr>
+    <w:t>-</w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+    </w:rPr>
+    <w:t>行动模式）；熟悉</w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+    </w:rPr>
+    <w:t xml:space="preserve"> Coze</w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+    </w:rPr>
+    <w:t>、</w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+    </w:rPr>
+    <w:t xml:space="preserve">Dify </w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+    </w:rPr>
+    <w:t>等智能体平台，了解大模型本地部署。</w:t>
+  </w:r>
+</w:p>
+
+======================================================================
+[P017] '数据查询智能体'
+======================================================================
+<w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16sdtfl="http://schemas.microsoft.com/office/word/2024/wordml/sdtformatlock" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" w14:paraId="0B5A8595" w14:textId="005CEA5E" w:rsidR="00296794" w:rsidRPr="005602F7" w:rsidRDefault="00B14909">
+  <w:pPr>
+    <w:spacing w:before="20" w:after="0" w:line="240" w:lineRule="auto"/>
+    <w:rPr>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+  </w:pPr>
+  <w:r>
+    <w:rPr>
+      <w:rFonts w:eastAsia="黑体" w:hint="eastAsia"/>
+      <w:b/>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>数据查询智能体</w:t>
+  </w:r>
+</w:p>
+
+======================================================================
+[P020] '· 项目简介：面向非技术业务人员的智能取数系统。用户输入自然语言问题，系统自动生成可执行 SQL 并完成数据仓库查询、返回结果，降低企业数据分析门槛，支持分组统计、TOP N 等复杂查询。'
+======================================================================
+<w:p xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16sdtfl="http://schemas.microsoft.com/office/word/2024/wordml/sdtformatlock" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" w14:paraId="2AC35F5A" w14:textId="77777777" w:rsidR="00296794" w:rsidRPr="005602F7" w:rsidRDefault="00000000">
+  <w:pPr>
+    <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+    <w:jc w:val="both"/>
+    <w:rPr>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+  </w:pPr>
+  <w:bookmarkStart w:id="0" w:name="OLE_LINK13"/>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>·</w:t>
+  </w:r>
+  <w:bookmarkEnd w:id="0"/>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t xml:space="preserve"> </w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>项目简介：面向非技术业务人员的智能取数系统。用户输入自然语言问题，系统自动生成可执行</w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t xml:space="preserve"> SQL </w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>并完成数据仓库查询、返回结果，降低企业数据分析门槛，支持分组统计、</w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t xml:space="preserve">TOP N </w:t>
+  </w:r>
+  <w:r w:rsidRPr="005602F7">
+    <w:rPr>
+      <w:color w:val="000000"/>
+      <w:sz w:val="20"/>
+      <w:szCs w:val="20"/>
+      <w:lang w:eastAsia="zh-CN"/>
+    </w:rPr>
+    <w:t>等复杂查询。</w:t>
+  </w:r>
+</w:p>

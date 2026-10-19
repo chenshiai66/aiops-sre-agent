@@ -1,0 +1,86 @@
+# docker-compose.yml
+#
+# 两个外部依赖：
+#   redis   —— LangGraph checkpoint、待审批索引、通知列表
+#   qdrant  —— 运维知识库（向量检索）
+#
+#   docker compose up -d      起
+#   docker compose down       停（保留数据）
+#   docker compose down -v    停并清空数据
+#
+# 注意：Kubernetes 集群【不在】这里 —— demo 用的是 kind，
+#       见 README 的「快速开始」第 ② 步。
+
+# ⚠️ 项目名固定成 aiops，别删这行。
+#    默认项目名取自【目录名】—— 一旦目录改名、或者从别处跑 compose，
+#    卷名就会变成「<新项目名>_redis-data」，compose 会当成另一个项目、
+#    新建【空卷】，你的 checkpoint 和知识库就"看不见"了（数据没丢，但挂不上）。
+name: aiops
+
+services:
+  redis:
+    # ⚠️ 镜像锁成和【现有容器】一致的版本 —— 不要随手改回 redis:7-alpine。
+    #    现有的 aiops-redis 就是 redis-stack-server；换成 alpine 版会重建容器，
+    #    而 redis-stack 的数据里带模块数据，alpine 版起来会报 unknown module。
+    image: redis/redis-stack-server:7.4.0-v0
+    container_name: aiops-redis
+    # Docker 引擎重启 / 机器重启后自动回来 —— 演示环境不该要人手动起。
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    # ⚠️ 开 AOF 持久化，不要只用内存。
+    #    checkpoint 是整个系统的地基：跨进程恢复、中断续跑、审批暂停
+    #    全靠它。用默认的内存模式，Redis 一重启所有在跑的故障就全丢了记忆。
+    #
+    # ★★ 这里【必须】用 `redis-stack-server`，不能用 `redis-server` ★★
+    #    redis-stack 镜像里 /usr/bin/redis-stack-server 是个脚本，
+    #    它会自动带上一堆 --loadmodule（redisearch.so / redisjson.so / ...）。
+    #    直接写 `redis-server` 会绕过它 → 模块一个都不加载 →
+    #    MODULE LIST 为空 → redisvl（AsyncRedisSaver 依赖）报错、服务起不来。
+    #    症状：run_server.py 卡在 "Waiting for application startup." 然后 traceback。
+    #    验证：docker exec aiops-redis redis-cli MODULE LIST   （应该有 4~5 个模块）
+    command: ["redis-stack-server", "--appendonly", "yes"]
+    volumes:
+      - redis-data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+
+  qdrant:
+    # ⚠️ 锁版本，不用 latest —— 否则重建时可能拉到新大版本，
+    #    而 qdrant 跨大版本的存储格式不保证向后兼容，数据卷会读不出来。
+    image: qdrant/qdrant:v1.12.4
+    container_name: aiops-qdrant
+    restart: unless-stopped
+    # ⚠️ 宿主端口【故意】不用默认的 6333/6334。
+    #    6333 已被本机另一个项目（data-agent）的 qdrant 占用 ——
+    #    两个项目各用各的端口，谁也不挡谁。
+    #    .env 里的 QDRANT_URL 要跟着用 6343。
+    ports:
+      - "6343:6333"   # HTTP（客户端走这个）
+      - "6344:6334"   # gRPC
+    volumes:
+      - qdrant-data:/qdrant/storage
+
+volumes:
+  # ⚠️ external: true 的意思是「这两个卷【已经存在】，别创建、别删，直接挂上」。
+  #
+  #    它们的名字是 docker_redis-data / docker_qdrant-data ——
+  #    早期用项目名 "docker" 起的，里面有真实的 checkpoint 和知识库。
+  #
+  #    ⚠️ 注意连字符 vs 下划线：
+  #       docker_qdrant-data   连字符 → 本项目（AIOps）
+  #       docker_qdrant_data   下划线 → 另一个项目（data-agent）
+  #       只差一个符号，别挂错。
+  #
+  #    如果去掉 external，compose 会去创建 aiops_redis-data / aiops_qdrant-data
+  #    两个【空卷】—— 数据本身不会丢（还在旧卷里），但新容器挂的是空卷，
+  #    表现出来就是"知识库突然没了"。
+  redis-data:
+    external: true
+    name: docker_redis-data
+  qdrant-data:
+    external: true
+    name: docker_qdrant-data
